@@ -1,0 +1,13 @@
+.box {
+background-color: #F53;
+margin: 3%;
+}
+
+.box1 {
+background-color: rgb(128, 128, 128);
+padding: 2%;
+}      
+
+#text{
+color: rgba(255, 0, 0, 0.3);
+}
